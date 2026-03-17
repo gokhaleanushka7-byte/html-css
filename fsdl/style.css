@@ -1,0 +1,43 @@
+/* General Layout */
+body {
+    font-family: Arial, sans-serif; [cite: 96]
+    margin: 0; [cite: 97]
+    background-color: #f4f4f4; [cite: 98]
+}
+
+/* Header Styling */
+header {
+    background-color: #333; [cite: 101]
+    color: white; [cite: 102]
+    text-align: center; [cite: 103]
+    padding: 20px; [cite: 104]
+}
+
+/* Content Sections */
+section {
+    padding: 20px; [cite: 107]
+    margin: 10px; [cite: 108]
+    background: white; [cite: 109]
+    border-radius: 8px;
+}
+
+/* Image Formatting */
+img {
+    display: block;
+    margin: 15px 0;
+    border-radius: 10px; /* Gives your photo slightly rounded corners */
+    border: 2px solid #333;
+}
+
+/* List Styling */
+ul {
+    list-style-type: square; [cite: 112]
+}
+
+/* Footer Styling */
+footer {
+    background-color: #333; [cite: 115]
+    color: white; [cite: 116]
+    text-align: center; [cite: 117]
+    padding: 10px; [cite: 118]
+}
